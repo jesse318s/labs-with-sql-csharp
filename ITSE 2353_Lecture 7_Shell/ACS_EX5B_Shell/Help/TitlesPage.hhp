@@ -1,0 +1,32 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=TitlesPage.chm
+Contents file=TitlesPage.hhc
+Default topic=Viewing Controls.htm
+Display compile progress=No
+Language=0x409 English (United States)
+Title=TitlesPage
+
+
+[FILES]
+Add New.htm
+Alter Data.htm
+Authors.htm
+Cancel.htm
+Delete.htm
+Edit.htm
+Exit.htm
+Find.htm
+First.htm
+Help.htm
+Last.htm
+Next.htm
+Other Controls.htm
+Previous.htm
+Publishers.htm
+Save.htm
+View Other Pages.htm
+Viewing Controls.htm
+
+[INFOTYPES]
+
