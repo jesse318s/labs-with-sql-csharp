@@ -1,0 +1,28 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Employees.chm
+Contents file=Employees.hhc
+Default topic=EmployeesTextboxes.htm
+Display compile progress=No
+Language=0x409 English (United States)
+Title=Employees
+
+
+[FILES]
+AddNew.htm
+Cancel.htm
+Delete.htm
+Edit.htm
+EmployeeButtons.htm
+EmployeeID.htm
+EmployeesTextboxes.htm
+Exit.htm
+Extension.htm
+FirstName.htm
+LastName.htm
+Next.htm
+Previous.htm
+Save.htm
+
+[INFOTYPES]
+
