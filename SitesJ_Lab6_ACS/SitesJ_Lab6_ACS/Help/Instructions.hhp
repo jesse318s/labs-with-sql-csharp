@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Instructions.chm
+Contents file=Instructions.hhc
+Default topic=Heading1.htm
+Display compile progress=No
+Language=0x409 English (United States)
+Title=Program Instructions Help File
+
+
+[FILES]
+Heading1.htm
+Topic1.htm
+Topic2.htm
+
+[INFOTYPES]
+
